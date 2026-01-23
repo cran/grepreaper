@@ -1,0 +1,17 @@
+b7b151a5dd9d3adb85e38fdfa8aa9fab *DESCRIPTION
+aaafe67572577e431a2b87938dfb76ab *LICENSE
+cfb74aa41dc4647c35378cb98aec3693 *NAMESPACE
+5fd49139aaad885e3dc0f9d08f6359fb *R/grep_count.r
+3fa94d70efe280a2408be626b145ff4d *R/grep_read.r
+7d9ba9eaba70c6e30cbf517c77f88ea6 *R/utils.r
+23a58c35eeb4fc829e77335511978cbf *build/vignette.rds
+b7dce8e03a6d811939753931a1a02d45 *inst/doc/Introduction-to-grepreaper.R
+26da0a102fbf2641989c08506446e5bb *inst/doc/Introduction-to-grepreaper.Rmd
+2983a014b3df5e11c14ce0eb391bd8ed *inst/doc/Introduction-to-grepreaper.html
+f7a002018419f8a7a91a2a4bb6653e81 *inst/extdata/ratings_data.zip
+a46899d30ea8fd701663964071a7abe8 *man/build_grep_cmd.Rd
+eb04c877a5c782ea60232e181efe09a4 *man/grep_count.Rd
+b5a034b233fffc76392476c29c1ad580 *man/grep_read.Rd
+223442680520953128b33be85b2ef4a5 *man/is_windows.Rd
+38102237dfb8294d46e69973d04fbc2c *man/split_columns.Rd
+26da0a102fbf2641989c08506446e5bb *vignettes/Introduction-to-grepreaper.Rmd
