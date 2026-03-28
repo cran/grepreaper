@@ -1,10 +1,10 @@
 Package: grepreaper
 Title: Efficient Data Filtering and Aggregation Using Grep
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     c(
     person("David", "Shilane", role = "aut", email = "david.shilane@columbia.edu"),
-    person("Atharv", "Raskar", role = "aut"),
+    person("Atharv", "Raskar", role = "aut", email= "raskaratharv28@gmail.com"),
     person("Akshat", "Maurya", role = c("aut", "cre"), email = "codingmaster902@gmail.com")
     )
 Description: Provides an interface to the system-level 'grep' utility for 
@@ -20,10 +20,10 @@ Suggests: ggplot2, knitr, rmarkdown
 VignetteBuilder: knitr
 Imports: data.table, methods
 NeedsCompilation: no
-Packaged: 2026-01-20 12:59:50 UTC; akshat
+Packaged: 2026-03-28 10:55:31 UTC; akshat
 Author: David Shilane [aut],
   Atharv Raskar [aut],
   Akshat Maurya [aut, cre]
 Maintainer: Akshat Maurya <codingmaster902@gmail.com>
 Repository: CRAN
-Date/Publication: 2026-01-23 21:10:02 UTC
+Date/Publication: 2026-03-28 11:10:02 UTC
